@@ -54,6 +54,14 @@ Here's what the data revealed:
 - **Takeaway:** Work-life balance issues are real
 
 ---
+## 📊 Dashboard
+**Overview & Key Metrics** <img width="1306" height="728" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/8112889a-27b2-43d6-8557-346693419b1e" />
+
+**Attrition Drivers** <img width="1297" height="712" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/7c62a93d-f291-4f9c-a7ef-60a08a1967e7" />
+
+*Full dashboard includes 4 interactive pages with filters for Department and Job Role.*
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -158,25 +166,6 @@ I documented my daily progress here:
 - ✅ Version Control: Iterative commits showing learning progression
 
 ---
+## 🤝 Questions or Suggestions?
 
-## 📬 Feedback & Collaboration
-
-This is a **learning project** — I'm actively improving!
-
-If you spot:
-- Better query approaches
-- Statistical improvements
-- Clearer insights
-- Missing analysis angles
-
-...feel free to open issues or suggest improvements. I'm here to learn. 🚀
-
----
-
-## 📄 License
-
-This project uses the [IBM HR Analytics Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) from Kaggle. Dataset is for educational purposes.
-
----
-
-**Built with curiosity, SQL, and a commitment to understanding data.** 📊  
+Found a better approach? Spotted an insight? Open an issue or reach out. Happy to discuss.
