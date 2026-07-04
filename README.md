@@ -57,7 +57,6 @@ Here's what the data revealed:
 ## 📊 Dashboard
 <img width="1318" height="723" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/f99695fe-47af-49be-8ac3-98b935b3dc4c" />
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -118,7 +117,7 @@ Here's what the data revealed:
 ## 📝 Learning Journey
 
 I documented my daily progress here:
-- **Blog:** https://izyink.blogspot.com
+- **Blog:** https://izyink.blogspot.com/2026/07/employee-attrition-analysis-day-1.html
 
 ---
 
