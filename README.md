@@ -55,11 +55,8 @@ Here's what the data revealed:
 
 ---
 ## 📊 Dashboard
-**Overview & Key Metrics** <img width="1306" height="728" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/8112889a-27b2-43d6-8557-346693419b1e" />
+<img width="1318" height="723" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/f99695fe-47af-49be-8ac3-98b935b3dc4c" />
 
-**Attrition Drivers** <img width="1297" height="712" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/7c62a93d-f291-4f9c-a7ef-60a08a1967e7" />
-
-*Full dashboard includes 4 interactive pages with filters for Department and Job Role.*
 
 ---
 
