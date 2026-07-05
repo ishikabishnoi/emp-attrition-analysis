@@ -55,7 +55,8 @@ Here's what the data revealed:
 
 ---
 ## 📊 Dashboard
-<img width="1318" height="723" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/f99695fe-47af-49be-8ac3-98b935b3dc4c" />
+<img width="1319" height="723" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/d5cc0f46-1d8d-4446-8581-8063448248b5" />
+
 
 ---
 
