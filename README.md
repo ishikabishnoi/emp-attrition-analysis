@@ -69,7 +69,7 @@ Here's what the data revealed:
 | **Jupyter Notebook** | Interactive analysis environment |
 | **SQLAlchemy** | ORM for database connection |
 | **MySQL** | Data storage & SQL analysis |
-| **Power BI** | Interactive dashboard (in progress) |
+| **Power BI** | Interactive dashboard |
 | **Git/GitHub** | Version control & portfolio |
 
 ---
