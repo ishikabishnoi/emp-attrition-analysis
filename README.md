@@ -90,7 +90,6 @@ Here's what the data revealed:
 - `attrition-bcz-of-distance-from-home.sql` — Commute distance
 
 **Tenure & Career Development:**
-- `attrition-bcz-of-time-spent-at-company.sql` — Company tenure, role tenure, promotion delays
 - `attrition-based-on-emp-tenure.sql` — Comprehensive tenure analysis
 
 **Work Environment:**
